@@ -20,18 +20,18 @@
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="ecom.html">Home</a>
+                <a class="nav-link active" aria-current="page" href="index.php">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="about.html">About Us</a>
+                <a class="nav-link" href="about.php">About Us</a>
               </li>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="contact.html" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                   Contact Us
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <li><a class="dropdown-item" href="contact.html">Gmail</a></li>
-                  <li><a class="dropdown-item" href="contact.html">Whats App</a></li>
+                  <li><a class="dropdown-item" href="contact.php">Gmail</a></li>
+                  <li><a class="dropdown-item" href="contact.php">Whats App</a></li>
                   
                 </ul>
               </li>
@@ -40,9 +40,9 @@
                   Privacy Policy
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <li><a class="dropdown-item" href="terms.html">Terms And Conditions</a></li>
-                  <li><a class="dropdown-item" href="help.html">Help And Feedback</a></li>
-                  <li><a class="dropdown-item" href="cancel.html">Cancellation/Refund Policy</a></li>
+                  <li><a class="dropdown-item" href="terms.php">Terms And Conditions</a></li>
+                  <li><a class="dropdown-item" href="help.php">Help And Feedback</a></li>
+                  <li><a class="dropdown-item" href="cancel.php">Cancellation/Refund Policy</a></li>
                   
                 </ul>
               </li>
